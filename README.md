@@ -1,4 +1,6 @@
 # skribbl-io-drawing-bot
+![Logo](https://raw.githubusercontent.com/Zipdox/skribbl-io-drawing-bot/master/icons/256.png)
+
 A drawing bot for skribbl.io
 
 ## Installation
