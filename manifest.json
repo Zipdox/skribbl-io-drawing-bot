@@ -21,5 +21,10 @@
         "128": "icons/128.png",
         "64": "icons/64.png"
     },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "skribblio@zipdox.net"
+        }
+    },
     "web_accessible_resources": ["*"]
 }
